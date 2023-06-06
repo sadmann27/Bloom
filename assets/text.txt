@@ -1,0 +1,15 @@
+Bacterial Spot
+Black Rot
+Early Blight
+Healthy
+Late Blight
+Leaf Curl Virus
+Leaf Mold
+Leaf Scorch
+Leaf Spot
+Mosaic Virus
+Powdery Mildew
+Rust
+Target Spot
+Two-spotted spider mites
+Venturia inaequalis
